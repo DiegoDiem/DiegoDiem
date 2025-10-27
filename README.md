@@ -6,13 +6,19 @@
 
 
 
-- 🔭 I’m currently working on **doto.com.mx**
+- 🔭 I’m currently working on **VML**
 
 - 🌱 I’m currently learning **ReactJS, Courses, etc.**
 
-- 👨‍💻 All of my projects are available at [https://diegodiem.github.io/Portafolio-DiegoMendez/](https://diegodiem.github.io/Portafolio-DiegoMendez/)
+- 🌐 I have worked with various international companies, such as:
+-     Whirlpool Multicountry (Costa Rica, Mexico, Colombia, Puerto Rico).
+-     KitchenAid EMEA (Europe, Middle East, Africa).
+-     Walmart Central America (Salvador, Costa Rica, Guatemala, Nicaragua, Honduras).
+-     Doto
+-     La Torre
+-     Plaforama
+-     Petland
 
-- 💬 Ask me about **JavaScript, CSS and more.**
 
 - 💌 Contact me **diego.110698@hotmail.com**
 
