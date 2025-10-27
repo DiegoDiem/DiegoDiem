@@ -20,7 +20,7 @@
   - Petland
 
 
-- 💌 Contact me **diego.110698@hotmail.com**
+- 💌 Contact me **mendezluis.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
