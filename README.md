@@ -11,13 +11,13 @@
 - 🌱 I’m currently learning **ReactJS, Courses, etc.**
 
 - 🌐 I have worked with various international companies, such as:
--     Whirlpool Multicountry (Costa Rica, Mexico, Colombia, Puerto Rico).
--     KitchenAid EMEA (Europe, Middle East, Africa).
--     Walmart Central America (Salvador, Costa Rica, Guatemala, Nicaragua, Honduras).
--     Doto
--     La Torre
--     Plaforama
--     Petland
+  - Whirlpool Multicountry (Costa Rica, Mexico, Colombia, Puerto Rico).
+  - KitchenAid EMEA (Europe, Middle East, Africa).
+  - Walmart Central America (Salvador, Costa Rica, Guatemala, Nicaragua, Honduras).
+  - Doto
+  - La Torre
+  - Plaforama
+  - Petland
 
 
 - 💌 Contact me **diego.110698@hotmail.com**
